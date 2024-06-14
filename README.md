@@ -16,7 +16,7 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 - Email: harshnalawade244@gmail.com
 - <a href="https://www.linkedin.com/in/avinash-nalawade-648b19278" target="_blank">
         <button class="image-button">
-            <img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Linkedin">
+            <img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Linkedin" width="35" height="35">
         </button>
     </a>
 
