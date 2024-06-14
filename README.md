@@ -26,7 +26,7 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical) ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=Avinash-1103&theme=dark)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical) &nbsp;![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=Avinash-1103&theme=dark)](https://git.io/streak-stats)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Avinash-1103/count.svg)
