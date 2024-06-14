@@ -9,31 +9,6 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 - 👯 I’m looking to collaborate on projects involving data analysis and predictive modeling.
 - 📫 How to reach me: harshnalawade244@gmail.com
 
-## Projects
-
-### Sales Data Analysis
-
-![Sales Data Analysis](https://via.placeholder.com/150)  <!-- Replace with actual image link -->
-- A comprehensive analysis of sales trends using Python and Pandas.
-
-### Titanic Survival Prediction
-
-![Titanic Survival Prediction](https://via.placeholder.com/150)  <!-- Replace with actual image link -->
-- Predicting survival on the Titanic using machine learning algorithms.
-
-### Hotel Cancellation Prediction
-
-![Hotel Cancellation Prediction](https://via.placeholder.com/150)  <!-- Replace with actual image link -->
-- Building a model to predict hotel booking cancellations.
-
-### Movie Ticket Booking System (Java)
-
-- Developed a Java application for booking movie tickets.
-
-### Hotel Billing System (C)
-
-- Created a billing system for hotels using C programming.
-
 ## Skills
 
 - Programming Languages: Python, C, Java, R
@@ -52,7 +27,7 @@ Let's connect and collaborate!
 
 ## GitHub Stats
 
-![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
 
