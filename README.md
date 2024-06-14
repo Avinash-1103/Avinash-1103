@@ -11,13 +11,11 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 
 ## Connect with Me
 
-- <a href="https://www.linkedin.com/in/avinash-nalawade-648b19278" target="_blank"><button class="image-button"><img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Linkedin" width="40" height="40"></button></a> <a href="https://www.hackerrank.com/profile/harshnalawade244" target="_blank"><button class="image-button"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="hackerrank" width="40" height="40"></button></a>
+- <a href="https://www.linkedin.com/in/avinash-nalawade-648b19278" target="_blank"><button class="image-button"><img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Linkedin" width="40" height="40"></button></a> &nbsp;
+  <a href="https://www.hackerrank.com/profile/harshnalawade244" target="_blank"><button class="image-button"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="hackerrank" width="40" height="40"></button></a>
     
 
-
 ## Skills
-
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40">  <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="40" height="40">  <img src="https://cdn-icons-png.flaticon.com/128/1628/1628182.png" alt="C" width="40" height="40">  <img src="https://cdn-icons-png.flaticon.com/128/2103/2103694.png" alt="R" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/128/4616/4616734.png" alt="ML" width="40" height="40">  <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="ML" width="40" height="40">
 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40"> &nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="40" height="40"> &nbsp; 
@@ -25,9 +23,6 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 <img src="https://cdn-icons-png.flaticon.com/128/2103/2103694.png" alt="R" width="40" height="40"> &nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/128/4616/4616734.png" alt="ML" width="40" height="40"> &nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="ML" width="40" height="40">
-
-
-
 
 
 ## GitHub Stats
