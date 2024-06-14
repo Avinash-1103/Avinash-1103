@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Avinash Nalawade
 
-![Profile Banner](https://images.app.goo.gl/D8H217P4wZ1H257Y6)
+![Profile Banner](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)
 
 
 ## About Me
