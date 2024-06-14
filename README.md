@@ -9,6 +9,18 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 - 👯 I’m looking to collaborate on projects involving data analysis and predictive modeling.
 - 📫 How to reach me: harshnalawade244@gmail.com
 
+## Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/avinash-nalawade-648b19278)
+- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile)
+- Email: harshnalawade244@gmail.com
+- <a href="https://www.linkedin.com/in/avinash-nalawade-648b19278" target="_blank">
+        <button class="image-button">
+            <img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Linkedin">
+        </button>
+    </a>
+
+
 ## Skills
 
 - Programming Languages: Python, C, Java, R
@@ -17,13 +29,7 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 - Databases: SQL, SQL Server
 - Other: Git, GitHub, Jupyter Notebooks
 
-## Connect with Me
 
-Let's connect and collaborate!
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile)
-- Email: harshnalawade244@gmail.com
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical) ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=Avinash-1103&theme=dark)](https://git.io/streak-stats)
