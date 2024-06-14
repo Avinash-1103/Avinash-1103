@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Avinash Nalawade
 
-![Profile Banner]([path_to_your_image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png))
+![Profile Banner](https://images.app.goo.gl/D8H217P4wZ1H257Y6)
 
 ## About Me
 I'm a BCA graduate with a keen interest in the data science domain. I enjoy working on data-driven projects and constantly learning new technologies. When I'm not coding, you can find me exploring new places or reading about the latest advancements in technology.
