@@ -26,7 +26,8 @@ Let's connect and collaborate!
 - Email: harshnalawade244@gmail.com
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical) ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical) ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=Avinash-1103&theme=dark)](https://git.io/streak-stats)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/Avinash-1103/count.svg)
 
