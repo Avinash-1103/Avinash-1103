@@ -29,11 +29,11 @@ Let's connect and collaborate!
 
 ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical)
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/your_github_username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Avinash-1103/count.svg)
 
 ---
 
