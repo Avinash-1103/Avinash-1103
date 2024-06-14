@@ -11,7 +11,7 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 
 ## Connect with Me
 
-- <a href="https://www.linkedin.com/in/avinash-nalawade-648b19278" target="_blank"><button class="image-button"><img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Linkedin" width="30" height="40"></button></a> <a href="https://www.hackerrank.com/profile/harshnalawade244" target="_blank"><button class="image-button"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="hackerrank" width="30" height="40"></button></a>
+- <a href="https://www.linkedin.com/in/avinash-nalawade-648b19278" target="_blank"><button class="image-button"><img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Linkedin" width="40" height="40"></button></a> <a href="https://www.hackerrank.com/profile/harshnalawade244" target="_blank"><button class="image-button"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="hackerrank" width="40" height="40"></button></a>
     
 
 
