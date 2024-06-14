@@ -19,6 +19,14 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40">  <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="40" height="40">  <img src="https://cdn-icons-png.flaticon.com/128/1628/1628182.png" alt="C" width="40" height="40">  <img src="https://cdn-icons-png.flaticon.com/128/2103/2103694.png" alt="R" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/128/4616/4616734.png" alt="ML" width="40" height="40">  <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="ML" width="40" height="40">
 
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="40" height="40"> &nbsp; 
+<img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="40" height="40"> &nbsp; 
+<img src="https://cdn-icons-png.flaticon.com/128/1628/1628182.png" alt="C" width="40" height="40"> &nbsp; 
+<img src="https://cdn-icons-png.flaticon.com/128/2103/2103694.png" alt="R" width="40" height="40"> &nbsp; 
+<img src="https://cdn-icons-png.flaticon.com/128/4616/4616734.png" alt="ML" width="40" height="40"> &nbsp; 
+<img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="ML" width="40" height="40">
+
+
 
 
 
