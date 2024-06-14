@@ -11,10 +11,7 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/avinash-nalawade-648b19278)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile)
-- Email: harshnalawade244@gmail.com
-- <a href="https://www.linkedin.com/in/avinash-nalawade-648b19278" target="_blank"><button class="image-button"><img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Linkedin" width="45" height="45"></button></a> 
+- <a href="https://www.linkedin.com/in/avinash-nalawade-648b19278" target="_blank"><button class="image-button"><img src="https://cdn-icons-png.flaticon.com/128/3128/3128329.png" alt="Linkedin" width="45" height="45"></button></a> <a href="harshnalawade244@gmail.com" target="_blank"><button class="image-button"><img src="https://cdn-icons-png.flaticon.com/128/16740/16740105.png" alt="Email" width="45" height="45"></button></a>
     
 
 
