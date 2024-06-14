@@ -1,64 +1,63 @@
 # Hi there! 👋 I'm Avinash Nalawade
 
-![Profile Banner](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)
-
-
 ## About Me
-I'm a BCA graduate with a keen interest in the data science domain. I enjoy working on data-driven projects and constantly learning new technologies. When I'm not coding, you can find me exploring new places or reading about the latest advancements in technology.
 
-- 🔭 I’m currently working on: Enhancing my data science skills through various projects.
-- 🌱 I’m currently learning: Advanced machine learning techniques and data visualization.
-- 👯 I’m looking to collaborate on: Data science and machine learning projects.
-- 🤔 I’m looking for help with: Finding job opportunities in the data science domain.
-- 💬 Ask me about: Data analysis, machine learning, and Python programming.
+I'm a BCA graduate with a passion for data science and machine learning. I enjoy exploring and analyzing data to derive meaningful insights. My goal is to contribute to innovative projects and advance my skills in the field of data science.
+
+- 🔭 I’m currently working on enhancing my machine learning models.
+- 🌱 I’m currently learning advanced techniques in natural language processing.
+- 👯 I’m looking to collaborate on projects involving data analysis and predictive modeling.
 - 📫 How to reach me: harshnalawade244@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and playing chess.
-
-## My Skills
-Here are some of the technologies and tools I work with:
-
-- <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="30" height="30"> <img src="https://image.shutterstock.com/image-vector/computer-c-letter-on-screen-260nw-695740117.jpg" alt="C Programming" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/128/2721/2721652.png" alt="PHP" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/128/2103/2103694.png" alt="R" width="30" height="30">
-- Libraries and Tools: ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ## Projects
+
 ### Sales Data Analysis
-[Sales Data Analysis](link_to_project)
-![Sales Data Analysis](path_to_project_image)
-A comprehensive analysis of sales data to identify trends, patterns, and insights. Technologies used: Python, Pandas, Matplotlib.
+
+![Sales Data Analysis](https://via.placeholder.com/150)  <!-- Replace with actual image link -->
+- A comprehensive analysis of sales trends using Python and Pandas.
 
 ### Titanic Survival Prediction
-[Titanic Survival Prediction](link_to_project)
-![Titanic Survival Prediction](path_to_project_image)
-A machine learning project to predict the survival of passengers on the Titanic. Technologies used: Python, Scikit-learn, Pandas, Seaborn.
+
+![Titanic Survival Prediction](https://via.placeholder.com/150)  <!-- Replace with actual image link -->
+- Predicting survival on the Titanic using machine learning algorithms.
 
 ### Hotel Cancellation Prediction
-[Hotel Cancellation Prediction](link_to_project)
-![Hotel Cancellation Prediction](path_to_project_image)
-A predictive model to determine the likelihood of hotel booking cancellations. Technologies used: Python, Pandas, Scikit-learn.
 
-### Movie Ticket Booking System
-[Movie Ticket Booking System](link_to_project)
-![Movie Ticket Booking System](path_to_project_image)
-A Java-based application for booking movie tickets. Technologies used: Java.
+![Hotel Cancellation Prediction](https://via.placeholder.com/150)  <!-- Replace with actual image link -->
+- Building a model to predict hotel booking cancellations.
 
-### Hotel Billing System
-[Hotel Billing System](link_to_project)
-![Hotel Billing System](path_to_project_image)
-A billing system for hotels developed in C programming. Technologies used: C.
+### Movie Ticket Booking System (Java)
+
+- Developed a Java application for booking movie tickets.
+
+### Hotel Billing System (C)
+
+- Created a billing system for hotels using C programming.
+
+## Skills
+
+- Programming Languages: Python, C, Java, R
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, TensorFlow, Keras
+- Databases: SQL, SQL Server
+- Other: Git, GitHub, Jupyter Notebooks
 
 ## Connect with Me
-Let's connect and chat! You can find me on:
 
-- [LinkedIn](link_to_linkedin) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-- [Twitter](link_to_twitter) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
-- [Email](mailto:harshnalawade244@gmail.com) ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+Let's connect and collaborate!
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile)
+- Email: harshnalawade244@gmail.com
 
 ## GitHub Stats
+
 ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
 
 ## Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/your_github_username/count.svg)
 
 ---
