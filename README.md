@@ -29,6 +29,8 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 <img src="https://github.com/user-attachments/assets/76ed46ab-2c88-4350-9ce3-8a470b7b53c4" alt="ML" width="40" height="40"> 
 
 ## GitHub Stats
+
+<img src="[https://github.com/user-attachments/assets/76ed46ab-2c88-4350-9ce3-8a470b7b53c4](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical)" alt="ML" width="40" height="40"> 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical) &nbsp;
 ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical) &nbsp; 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Avinash-1103&theme=dark)](https://git.io/streak-stats)
