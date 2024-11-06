@@ -1,4 +1,4 @@
-                                                                                        # Hi there! 👋 I'm Avinash Nalawade
+                                                                           # Hi there! 👋 I'm Avinash Nalawade
 
 ## About Me
 
@@ -23,14 +23,15 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 <img src="https://cdn-icons-png.flaticon.com/128/2103/2103694.png" alt="R" width="40" height="40"> &nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/128/4616/4616734.png" alt="ML" width="40" height="40"> &nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="ML" width="40" height="40"> 
+<img src="https://github.com/user-attachments/assets/fc556f97-3dc3-42e7-acae-d7cc6cb841ad" alt="ML" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/5d2b71e4-f441-4191-a19e-b5b32d32d44b" alt="ML" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/2f231982-69f9-480a-972b-b5dbaf0567eb" alt="ML" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/76ed46ab-2c88-4350-9ce3-8a470b7b53c4" alt="ML" width="40" height="40"> 
 
-
-
-
-
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical) &nbsp;![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=Avinash-1103&theme=dark)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1103&layout=compact&theme=radical) &nbsp;
+![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash-1103&show_icons=true&theme=radical) &nbsp; 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Avinash-1103&theme=dark)](https://git.io/streak-stats)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Avinash-1103/count.svg)
