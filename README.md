@@ -23,8 +23,7 @@ I'm a BCA graduate with a passion for data science and machine learning. I enjoy
 <img src="https://cdn-icons-png.flaticon.com/128/2103/2103694.png" alt="R" width="40" height="40"> &nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/128/4616/4616734.png" alt="ML" width="40" height="40"> &nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="ML" width="40" height="40"> 
-<img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="ML" width="40" height="40"> 
-![image](https://github.com/user-attachments/assets/76ed46ab-2c88-4350-9ce3-8a470b7b53c4)
+<img src="https://github.com/user-attachments/assets/76ed46ab-2c88-4350-9ce3-8a470b7b53c4" alt="ML" width="40" height="40"> 
 
 
 
