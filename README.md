@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/65d09965-9dbe-47b6-947b-bae7edec7176)                                          # Hi there! 👋 I'm Avinash Nalawade
+                                                                                        # Hi there! 👋 I'm Avinash Nalawade
 
 ## About Me
 
